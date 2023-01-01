@@ -12,8 +12,4 @@ Skills: ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=namnguyenthanhwork)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namnguyenthanhwork&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/namnguyenthanhwork)  
-
 ![Profile views](https://gpvc.arturio.dev/namnguyenthanhwork)  
